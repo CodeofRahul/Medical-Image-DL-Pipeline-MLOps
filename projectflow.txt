@@ -5,3 +5,4 @@
 3. Activate the virtual environment - conda activate ctscan/
 4. add template.py and run it from terminal
 5. git add - commit - push
+6. add requirements.txt, setup.py 
