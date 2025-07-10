@@ -1,0 +1,7 @@
+-------------------------Setting up project structure---------------------------
+
+1. Create repo, clone it in local
+2. Create a virtual environment named 'ctscan' - conda create -p ctscan python=3.8 -y
+3. Activate the virtual environment - conda activate ctscan/
+4. add template.py and run it from terminal
+5. git add - commit - push
