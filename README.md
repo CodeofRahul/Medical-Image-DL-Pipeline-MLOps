@@ -123,3 +123,7 @@ pip install -r requirements.txt
 
 > This resolved the error in my case.<br>
 > If you're still facing issues, make sure your Python version is 3.9 or higher.
+
+- [Data Link](https://drive.usercontent.google.com/download?id=1z0mreUtRmR-P-magILsDR3T7M6IkGXtY&export=download&authuser=0)
+
+- [Data Link](https://universe.roboflow.com/student-jovgq/ct-scan-dgzcv)

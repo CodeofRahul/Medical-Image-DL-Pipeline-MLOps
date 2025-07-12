@@ -5,4 +5,7 @@
 3. Activate the virtual environment - conda activate ctscan/
 4. add template.py and run it from terminal
 5. git add - commit - push
-6. add requirements.txt, setup.py, logging, utils/common.py ,
+6. add requirements.txt, setup.py, logging, utils/common.py ,config/config.yaml, params.yaml (don't leave params.yaml blank, it may cause run time issue)
+7. add code to config.yaml, param.yaml, cnnClassifier/constants/__init__.py
+8. create research/01_data_ingestion.ipynb and write code in it 
+9. add code to entity/config_entity.py, config/configuration.py, components/data_ingestion.py, pipeline/stage_01_data_ingestion.py, main.py
