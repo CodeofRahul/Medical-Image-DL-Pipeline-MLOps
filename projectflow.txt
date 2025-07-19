@@ -9,3 +9,13 @@
 7. add code to config.yaml, param.yaml, cnnClassifier/constants/__init__.py
 8. create research/01_data_ingestion.ipynb and write code in it 
 9. add code to entity/config_entity.py, config/configuration.py, components/data_ingestion.py, pipeline/stage_01_data_ingestion.py, main.py
+10. update/add code in this order:
+    1. Update config.yaml
+    2. Update params.yaml
+    3. Update the entity
+    4. Update the configuration manager in src config
+    5. Update the components
+    6. Update the pipeline
+    7. Update the main.py
+    8. Update the dvc.yaml
+11. create a file components/prepare_base_model.py and add tensorflow code in it
